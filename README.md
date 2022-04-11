@@ -1,4 +1,4 @@
-# True Pixel-Perfect Camera for Unity
+# True Pixel-Perfect Camera for Unity Engine
 [![build](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/GabrielBigardi/INTZ-Game/releases)
 
 ## Installation
